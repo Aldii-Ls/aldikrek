@@ -18,10 +18,10 @@ pkg install git
 cd /sdcard
 ```
 ```bash
-git clone https://github.com/Aldii-Ls/Aldikrek.py
+git clone https://github.com/Aldii-Ls/aldikrek.py
 ```
 ```bash
-cd Aldikrek
+cd aldikrek
 ```
 ```bash
 python krekk.py
