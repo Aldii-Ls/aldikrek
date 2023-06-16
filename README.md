@@ -1,5 +1,6 @@
 script di enc bertujuan untuk mengamankan sebuah credit di dalam script ini
-#RUN VIA TERMUX
+
+<H2> VIA TERMUX </H2>
 
 ```bash
 pkg update && pkg upgrade
