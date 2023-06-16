@@ -24,7 +24,7 @@ git clone https://github.com/Aldii-Ls/aldikrek.py
 cd aldikrek
 ```
 ```bash
-python krekk.py
+python aldi.py
 ```
 
 <H6>Silahkan pilih menu anda dan jika memasukan cookies facebook gw saranin menggunakan extension *cookiedought*</H6>
